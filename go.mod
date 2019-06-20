@@ -1,4 +1,4 @@
-module elogrus
+module github.com/itanqian/elogrus
 
 go 1.12
 
